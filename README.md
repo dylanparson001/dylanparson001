@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1>Hi, I'm Dylan!<br/><a href="https://github.com/dylanparson001">Software Engineer</a>
 
-<!--
-**dylanparson001/dylanparson001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software Development Projects:</h2>
 
-Here are some ideas to get you started:
+<h3><b>Full Stack Web Development:</b></h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Onyx Solutions (C#, Angular, PostgreSQL, Dot Net Core)</b>
+  - [CRM and messaging app for service industry](https://github.com/dylanparson001/onyx-solutions)
+- <b>Inventory Management (C#, Angular, SQL Server, Dot Net Core)</b>
+  - [Inventory Mangement Software](https://github.com/dylanparson001/Inventory-Website) 
+- <b>Movie War!</b>
+  - [Fantasy League style Box Office Game ](https://github.com/dylanparson001/movie-war)
+  
