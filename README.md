@@ -6,6 +6,4 @@
 
 - <b>Inventory Management (C#, Angular, Dot Net Core)</b>
   - [Inventory Mangement Software](https://github.com/dylanparson001/Inventory-Website) 
-- <b>Movie War!</b>
-  - [Fantasy League style Box Office Game ](https://github.com/dylanparson001/movie-war)
-  
+
