@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dylan!<br/><a href="https://dylanparson.xyz">Software Engineer</a>
+<h1>Hi, I'm Dylan!<br/><h2">Software Engineer</h2>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
