@@ -1,6 +1,6 @@
 <h1>Hi, I'm Dylan!<br/><h2">Software Engineer</h2>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h3>👨‍💻 Software Development Projects:</h3>
 
 <h3><b>Full Stack Web Development:</b></h3>
 
