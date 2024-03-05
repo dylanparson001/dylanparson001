@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dylan!<br/><h2">Software Engineer</h2>
+<h1>Hi, I'm Dylan, a Software Engineer</h2>
 
 <h3>👨‍💻 Software Development Projects:</h3>
 
