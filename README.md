@@ -4,7 +4,7 @@
 
 <h3><b>Full Stack Web Development:</b></h3>
 
-- <b>Onyx Scheduling [Under Development] (C#, Angular, Dot Net Core)</b>
+- <b>Onyx Scheduling [Live Link](https://onyx-solutions.azurewebsites.net) (C#, Angular, Dot Net Core)</b>
   - [Onyx](https://github.com/dylanparson001/onyx-scheduling)
   - This Full stack web application built with C# and Angular for Service companies (plumbing, electrical, etc) that allow scheduling jobs, viewing invoices, and user logins and roles. 
 
