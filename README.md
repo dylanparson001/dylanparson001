@@ -5,8 +5,7 @@
 <h3><b>Full Stack Web Development:</b></h3>
 
 - <b>[Onyx Solutions](https://onyx-solutions.azurewebsites.net)
-  - [Repo](https://github.com/dylanparson001/onyx-scheduling)
-  - This Full stack web application built with C# and Angular for Service companies (plumbing, electrical, etc) that allow scheduling jobs, viewing invoices, and user logins and roles. 
+  - •	Worked as a full stack developer and developed features for the Field Service Management web app using Angular and C# Dotnet Web API, including email services, PDF invoice generation, and performance metrics
 
 - <b>Inventory Management (C#, Angular, Dot Net Core)</b>
   - [Inventory Mangement Software](https://github.com/dylanparson001/Inventory-Website)
