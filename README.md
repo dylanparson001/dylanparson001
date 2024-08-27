@@ -12,9 +12,10 @@
   - Basic Full stack web application that allows users to add items and manage inventory, save to a SQLite database.
 
 
-- <b>Landon Hotel Web App - School Project (Java Spring Boot, Angular)</b>
-  - [Landon Hotel Web App](https://github.com/dylanparson001/Landon-Hotel-Web-App)
-  - Advanced Java School Project, Multithreaded Full stack web application built with Java Spring boot and Angular. Provides reservations for the Landon Hotel and gives information for upcoming events.
+- <b>Kid Of The Day (Work in progress)</b>
+  - [Kid Of the Day API Repo](https://github.com/dylanparson001/KidOfTheDayAPI)
+  - [Kid Of the Day Android app Repo](https://github.com/dylanparson001/Kid-Of-The-Day)
+  - A parenting app that helps parents with multiple children make everyone feel special on a schedule of days where they have specials perks and responsibilities. Work in progress, C# Web API and SQL Server as the backend and Android with Compose.
 
 <h3><b>Data Structures and Algorithms:</b></h3>
 
