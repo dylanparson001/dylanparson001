@@ -4,8 +4,10 @@
 
 <h3><b>Full Stack Web Development:</b></h3>
 
-- <b>[Onyx Solutions](https://onyx-solutions.azurewebsites.net)
-  - •	Worked as a full stack developer and developed features for the Field Service Management web app using Angular and C# Dotnet Web API, including email services, PDF invoice generation, and performance metrics
+- <b>[Onyx Solutions Live Link](https://onyx-solutions.azurewebsites.net)
+  - [Onyx Repo](https://github.com/dylanparson001/onyx-scheduling)
+  - C# .NET Web API, SQL Server, TypeScript, Angular, Entity Frameowrk, Microsoft Identity
+  - Worked as a full stack developer and developed features for the Field Service Management web app using Angular and C# Dotnet Web API, including email services, PDF invoice generation, and performance metrics
 
 - <b>Inventory Management (C#, Angular, Dot Net Core)</b>
   - [Inventory Mangement Software](https://github.com/dylanparson001/Inventory-Website)
